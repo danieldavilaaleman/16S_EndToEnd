@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/:user/:repo)
+
 # 16S_EndToEnd
 
 A reproducible Snakemake workflow for 16S rRNA metagenomic data analysis and visualization.
